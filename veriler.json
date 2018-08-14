@@ -1,56 +1,37 @@
-﻿{"mailler":[
+{"Companies":[
 	{
- 
-	"mail_id":1, 
-	"mail_adi":"Doe",
-	"mail_soyadi":"Doe",
-	"mail_mail":"Doe",
-	"mail_resim":"Doe",
-		
- 	},
+	 "Heading": "Cloud NX",
+	 "Detail": "For cloud solution, waiting for you",
+	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image1.png"
+	},
+ 	{
+	  "Heading": "Microsoft",
+	  "Detail": "Best solution for system programs",
+	  "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
+	},
 	{
- 
-	"mail_id":2, 
-	"mail_adi":"Doe",
-	"mail_soyadi":"Doe",
-	"mail_mail":"Doe",
-	"mail_resim":"Doe",
-		
- 	},
+	 "Heading": "Oracle",
+	 "Detail": "Spatial database is supported now",
+	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
+	},
 	{
- 
-	"mail_id":3, 
-	"mail_adi":"Doe",
-	"mail_soyadi":"Doe",
-	"mail_mail":"Doe",
-	"mail_resim":"Doe",
-		
- 	},
+	 "Heading": "Google",
+	 "Detail": "Android is the best comprimise for mobile devices",
+	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
+	},
 	{
- 
-	"mail_id":4, 
-	"mail_adi":"Doe",
-	"mail_soyadi":"Doe",
-	"mail_mail":"Doe",
-	"mail_resim":"Doe",
-		
- 	},
+	 "Heading": "Amazon",
+	 "Detail": "Have the largest cloud infrastructure",
+	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
+	},
 	{
- 
-	"mail_id":5, 
-	"mail_adi":"Doe",
-	"mail_soyadi":"Doe",
-	"mail_mail":"Doe",
-	"mail_resim":"Doe",
-		
- 	},
+	 "Heading": "Intel",
+	 "Detail":"Microprocessor center of the word",
+	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
+	},
 	{
- 
-	"mail_id":6, 
-	"mail_adi":"Doe",
-	"mail_soyadi":"Doe",
-	"mail_mail":"Doe",
-	"mail_resim":"Doe",
-		
- 	}
+	 "Heading": "IBM",
+	 "Detail": "The oldest IT company",
+	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
+	}
 ]}
