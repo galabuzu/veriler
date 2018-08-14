@@ -1,37 +1,37 @@
-{"Companies":[
+{"Mailler":[
 	{
-	 "Heading": "Cloud NX",
-	 "Detail": "For cloud solution, waiting for you",
+	 "AdiSoyadi": "Ömer Caner GÜDÜK",
+	 "Mail": "omercanerguduk@gmail.com",
 	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image1.png"
 	},
  	{
-	  "Heading": "Microsoft",
-	  "Detail": "Best solution for system programs",
+	  "AdiSoyadi": "Microsoft",
+	  "Mail": "Best solution for system programs",
 	  "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
 	},
 	{
-	 "Heading": "Oracle",
-	 "Detail": "Spatial database is supported now",
+	 "AdiSoyadi": "Oracle",
+	 "Mail": "Spatial database is supported now",
 	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
 	},
 	{
-	 "Heading": "Google",
-	 "Detail": "Android is the best comprimise for mobile devices",
+	 "AdiSoyadi": "Google",
+	 "Mail": "Android is the best comprimise for mobile devices",
 	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
 	},
 	{
-	 "Heading": "Amazon",
-	 "Detail": "Have the largest cloud infrastructure",
+	 "AdiSoyadi": "Amazon",
+	 "Mail": "Have the largest cloud infrastructure",
 	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
 	},
 	{
-	 "Heading": "Intel",
-	 "Detail":"Microprocessor center of the word",
+	 "AdiSoyadi": "Intel",
+	 "Mail":"Microprocessor center of the word",
 	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
 	},
 	{
-	 "Heading": "IBM",
-	 "Detail": "The oldest IT company",
+	 "AdiSoyadi": "IBM",
+	 "Mail": "The oldest IT company",
 	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
 	}
 ]}
