@@ -1,5 +1,110 @@
-﻿{"employees":[
-	{ "firstName":"Jhon", "lastName":"Doe" },
-	{ "firstName":"Jhon", "lastName":"Doe" },
-	{ "firstName":"Jhon", "lastName":"Doe" }
+{"mailler":[
+	{
+ 
+	"mail_id":1, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":2, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":3, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":4, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":5, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":6, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":7, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":8, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":9, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":10, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":11, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
+	{
+ 
+	"mail_id":12, 
+	"mail_adi":"Doe",
+	"mail_soyadi":"Doe",
+	"mail_mail":"Doe",
+	"mail_resim":"Doe",
+		
+ 	},
 ]}
