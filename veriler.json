@@ -1,37 +1,37 @@
 {"Mailler":[
 	{
-	 "AdiSoyadi": "Ömer Caner GÜDÜK",
-	 "Mail": "omercanerguduk@gmail.com",
+	 "AdiSoyadi": "Prof. Dr. İsmail Rakıp KARAŞ",
+	 "Mail": "ismail.karas@karabuk.edu.tr",
 	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/irkaras.jpg"
 	},
  	{
-	  "AdiSoyadi": "Microsoft",
-	  "Mail": "Best solution for system programs",
-	  "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
+	  "AdiSoyadi": "Prof. Dr. Mehmet AKBABA",
+	  "Mail": "mehmetakbaba@karabuk.edu.tr",
+	  "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/makbaba.jpg"
 	},
 	{
-	 "AdiSoyadi": "Oracle",
-	 "Mail": "Spatial database is supported now",
-	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
+	 "AdiSoyadi": "Doç. Dr. İlhami Muharrem ORAK",
+	 "Mail": "imorak@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/imorak.jpg"
 	},
 	{
-	 "AdiSoyadi": "Google",
-	 "Mail": "Android is the best comprimise for mobile devices",
-	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
+	 "AdiSoyadi": "Doç. Dr. Oğuz FINDIK",
+	 "Mail": "oguzfindik@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/ofindik.jpg"
 	},
 	{
-	 "AdiSoyadi": "Amazon",
-	 "Mail": "Have the largest cloud infrastructure",
-	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
+	 "AdiSoyadi": "Dr. Öğr. Üyesi İlker TÜRKER",
+	 "Mail": "iturker@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/iturker.jpg	"
 	},
 	{
-	 "AdiSoyadi": "Intel",
-	 "Mail":"Microprocessor center of the word",
-	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
+	 "AdiSoyadi": "Dr. Öğr. Üyesi Yasin ORTAKÇI",
+	 "Mail":"yasinortakcı@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/yortakci.jpg"
 	},
 	{
-	 "AdiSoyadi": "IBM",
-	 "Mail": "The oldest IT company",
-	 "ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
+	 "AdiSoyadi": "Dr. Öğr. Üyesi Emrullah SONUÇ",
+	 "Mail": "esonuc@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/esonuc.jpg"
 	}
 ]}
