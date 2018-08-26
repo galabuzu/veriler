@@ -1,65 +1,22 @@
-{"film":[
+{"Mailler":[
 	{
-	 "Adi": "Gizem Treni",
-	 "Tur": "Dram , Komedi , Suç",
-	 "Tarih": "10 Ağustos 2018",
-	 "Sure": "113dk",
-	 "ImageURL": "https://img02.imgsinemalar.com/images/afis_buyuk/g/gizem-treni-1531896224.jpg"
+	 "AdiSoyadi": "İsmail Rakıp KARAŞ",
+	 "Mail": "ismail.karas@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/irkaras.jpg"
 	},
  	{
-	 "Adi": "Meg: Derinlerdeki Dehşet",
-	 "Tur": "Bilim Kurgu , Aksiyon , Korku",
-	 "Tarih": "10 Ağustos 2018",
-	 "Sure": "113dk",
-	 "ImageURL": "https://img01.imgsinemalar.com/images/afis_buyuk/m/meg-derinlerdeki-dehset-1533814965.jpg"
+	 "AdiSoyadi": "Mehmet AKBABA",
+	 "Mail": "mehmetakbaba@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/makbaba.jpg"
 	},
 	{
-	 "Adi": "Karanlık Zihinler",
-	 "Tur": "Bilim Kurgu , Gerilim",
-	 "Tarih": "3 Ağustos 2018",
-	 "Sure": "105dk",
-	 "ImageURL": "https://img03.imgsinemalar.com/images/afis_buyuk/k/karanlik-zihinler-1531136374.jpg"
+	 "AdiSoyadi": "İlker TÜRKER",
+	 "Mail": "iturker@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/iturker.jpg"
 	},
 	{
-	 "Adi": "Christopher Robin",
-	 "Tur": "Animasyon , Komedi , Macera",
-	 "Tarih": "3 Ağustos 2018",
-	 "Sure": "104dk",
-	 "ImageURL": "https://img03.imgsinemalar.com/images/afis_buyuk/c/christopher-robin-1533132962.jpg"
-	},
-	{
-	 "Adi": "Sıfırın Altında: Dağdaki Mucize",
-	 "Tur": "Dram , Gerilim",
-	 "Tarih": "3 Ağustos 2018",
-	 "Sure": "98dk",
-	 "ImageURL": "https://img01.imgsinemalar.com/images/afis_buyuk/s/sifirin-altinda-dagdaki-mucize-1531896253.jpg"
-	},
-	{
-	 "Adi": "Mission: Impossible - Yansımalar",
-	 "Tur": "Aksiyon , Gerilim , Macera",
-	 "Tarih": "27 Temmuz 2018",
-	 "Sure": "147dk",
-	 "ImageURL": "https://img04.imgsinemalar.com/images/afis_buyuk/m/mission-impossible-yansimalar-1530605305.jpg"
-	},
-	{
-	 "Adi": "Sibirya",
-	 "Tur": "Dram , Gerilim",
-	 "Tarih": "20 Temmuz 2018",
-	 "Sure": "165dk",
-	 "ImageURL": "https://img01.imgsinemalar.com/images/afis_buyuk/s/sibirya-1531228411.jpg"
-	},
-	{
-	 "Adi": "Gökdelen",
-	 "Tur": "Aksiyon , Dram , Suç",
-	 "Tarih": "13 Temmuz 2018",
-	 "Sure": "102dk",
-	 "ImageURL": "https://img02.imgsinemalar.com/images/afis_buyuk/g/gokdelen-1528380313.jpg"
-	},
-	{
-	 "Adi": "Kaptan Dandun",
-	 "Tur": "Animasyon , Aksiyon , Macera",
-	 "Tarih": "6 Temmuz 2018",
-	 "Sure": "73dk",
-	 "ImageURL": "https://img04.imgsinemalar.com/images/afis_buyuk/k/kaptan-dandun-1527590482.jpg"
+	 "AdiSoyadi": "Yasin ORTAKCI",
+	 "Mail": "yasinortakci@karabuk.edu.tr",
+	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/yortakci.jpg"
 	}
 ]}
