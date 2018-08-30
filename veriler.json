@@ -1,23 +1,49 @@
-{"Mailler":[
-	{
-	 "AdiSoyadi": "İsmail Rakıp KARAŞ",
-	 "Mail": "ismail.karas@karabuk.edu.tr",
-	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/irkaras.jpg"
-	},
- 	{
-	 "AdiSoyadi": "Mehmet AKBABA",
-	 "Mail": "mehmetakbaba@karabuk.edu.tr",
-	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/makbaba.jpg"
-	},
-	{
-	 "AdiSoyadi": "İlker TÜRKER",
-	 "Mail": "    iturker@karabuk.edu.tr",
-	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/iturker.jpg"
-	},
-	{
-	 "AdiSoyadi": "Yasin ORTAKCI",
-	 "Mail": "yasinortakci@karabuk.edu.tr",
-	 "ImageURL": "http://muh.karabuk.edu.tr/bilgisayar/images/staff/yortakci.jpg"
-	}
-]}
-
+{
+    "ulke":[{
+        "ulkead": "KANADA",
+        "baskent": "Ottawa",
+        "nufus": "35.295.770",
+        "alan": "9.970.610 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/ca.png"},{
+        "ulkead": "Birleşik Krallık",
+        "baskent": "Londra",
+        "nufus": "63.705.000",
+        "alan": "242.900 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/gb.png"},{
+        "ulkead": "Japonya",
+        "baskent": "Tokyo",
+        "nufus": "127.180.000",
+        "alan": "377.873 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/jp.png"},{
+        "ulkead": "Amerika Birleşik Devletleri",
+        "baskent": "Washington, District of Columbia",
+        "nufus": "317.706.000",
+        "alan": "9.629.090 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/us.png"},{
+        "ulkead": "Fransa",
+        "baskent": "Paris",
+        "nufus": "65.844.000",
+        "alan": "551.500 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/fr.png"},{
+        "ulkead": "Almanya",
+        "baskent": "Berlin",
+        "nufus": "80.619.000",
+        "alan": "357.022 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/de.png"},{
+        "ulkead": "Brezilya",
+        "baskent": "Brezilya",
+        "nufus": "201.032.714",
+        "alan": "8.514.880 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/br.png"},{
+        "ulkead": "İtalya",
+        "baskent": "Roma",
+        "nufus": "59.943.933",
+        "alan": "301.318 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/it.png"},{
+        "ulkead": "Güney Kore",
+        "baskent": "Seoul",
+        "nufus": "50.219.669",
+        "alan": "99.538 km2",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/kr.png"}
+    ]
+}
